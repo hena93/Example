@@ -10,13 +10,11 @@
    body{
       width: 100%;
       height: 100%;
-      border: 1px solid black;
    }
     #index_wrap {
        width: 1280px;
        height: 720px;
-       margin: 0 auto;   
-       border: 1px solid blue;
+       margin: 0 auto;
     }
    .container{
       position: absolute;
